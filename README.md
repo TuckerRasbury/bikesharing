@@ -1,7 +1,17 @@
 # bikesharing
  
+## Abstract
 
-## Project Background and Initial Thoughts
+
+## Results: 
+_Please see the below for my results visualized using Tableau Story with descriptions of relevant takeaways accompanying each image._
+
+
+## Summary: 
+_High-level summary of the results and additional findings (2 images)._
+
+
+### Project Background and Initial Thoughts
 This project begins under the pretext that a friend and I are huge fans of Citibike, a bike sharing business privately run throughout different cities, that we came across during our most recent vacation to New York. We loved the business model so much that we decided to start our own version of the business in Des Moines, our hypothetical home. I had a lot of questions initially going into this hypothetical bike sharing venture. Here were the handful that really stuck with me as being key to us successfully launching our venture: 
 
 1. Licensing - What city office has the jurisidiction to be able to permit us to install bike docking stations around the city?
