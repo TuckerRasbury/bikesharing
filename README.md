@@ -3,11 +3,11 @@
 ## Abstract
 
 
-## Results: 
+## Results
 _Please see the below for my results visualized using Tableau Story with descriptions of relevant takeaways accompanying each image._
 
 
-## Summary: 
+## Summary
 _High-level summary of the results and additional findings (2 images)._
 
 
