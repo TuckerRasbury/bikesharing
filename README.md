@@ -28,9 +28,11 @@ Riders are most likely to opt for 4-6 hours of use and then use trends down cons
 MALEs and FEMALEs use the bikes similarly in terms of length of use. The difference here is primarily in volume which we covered earlier.
  
 ![](TripsbyWeekdayperHour_GenderBreakdown.png)
-MALEs and FEMALEs use the bikes similarly in terms of when they use Citibike. The color densisty difference here is caused by volume which skews MALE. In generals 
+
+MALEs and FEMALEs use the bikes similarly in terms of when they use Citibike. The color densisty difference here is caused by volume which skews MALE. In general ridership spikes at from 7AM to 10AM and 5PM to 7PM. The weekends show promise and should not be ignored.
  
 ![](UserTripsbyGenderbyWeekday.png)
+
 MALEs are far more likely to be subscribers. If this can be exploited or if FEMALE subscription can be raised, there is more money to be made here.
 
 ## Summary
