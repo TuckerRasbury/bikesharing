@@ -36,8 +36,11 @@ MALEs and FEMALEs use the bikes similarly in terms of when they use Citibike. Th
 MALEs are far more likely to be subscribers. If this can be exploited or if FEMALE subscription can be raised, there is more money to be made here.
 
 ## Summary
-_High-level summary of the results and additional findings (2 images)._
+_High-level summary of the results._
 
+What can be said of the bike ridesharing business with this analysis is that ridership is high and consistently so among frequent, mostly male, mostly middle aged to young adult clients. Riders use Citibike toward the "morning rush" and "right after work" traffic times making the early morning the ideal time for maintenance. 
+
+With all that said, we need additional data on the expenses and pricing of the bike ridesharing business to be able to assert at what scale the business can be profitable. We can however say that there is definitely a market for the service.
 
 ## Appendix
 
