@@ -5,6 +5,7 @@ Using Tableau and Python, I used New York City Citibike data to create a busines
 
 ## Results
 _Please see the below for my results visualized using Tableau Story with descriptions of relevant takeaways accompanying each image._
+
 [link to dashboard](https://public.tableau.com/profile/isaac3544#!/vizhome/NYCCitibikeUsageforAugust2019/Story2)
 
 
