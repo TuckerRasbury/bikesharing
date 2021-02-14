@@ -9,6 +9,24 @@ _Please see the below for my results visualized using Tableau Story with descrip
 [link to dashboard](https://public.tableau.com/profile/isaac3544#!/vizhome/NYCCitibikeUsageforAugust2019/Story2)
 
 
+![](HighLevel.png)
+
+
+![](CheckoutTimeForUsers.png)
+ 
+ 
+![](CheckoutTimeForUsers_GenderBreakdown.png)
+
+
+![](TripsbyWeekdayperHour.png)
+
+
+![](TripsbyWeekdayperHour_GenderBreakdown.png)
+
+
+![](UserTripsbyGenderbyWeekday.png)
+
+
 ## Summary
 _High-level summary of the results and additional findings (2 images)._
 
