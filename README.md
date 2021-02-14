@@ -10,22 +10,28 @@ _Please see the below for my results visualized using Tableau Story with descrip
 
 
 ![](HighLevel.png)
+ 
+Citibike's most consistent users are middle aged to younger users, ranging from 50 to early 20. MALEs use Citibike more often then FEMALEs. And, the client base tends heavily towards using the subscriptions, making repeat users a tentatively ripe possibility.
 
+### Getting Granular
 
 ![](CheckoutTimeForUsers.png)
- 
+
+User use ranges drastically affording Citibike ample windows for both maintenance and promotions intended to increase use. High use periods are brief, but are very high use periods making them the most profitable and the riskiest time of the day. They can make or break a business day's cash flow.
  
 ![](CheckoutTimeForUsers_GenderBreakdown.png)
-
-
+ 
+Riders are most likely to opt for 4-6 hours of use and then use trends down consistently. Given the consistency in how riders use the bikes there may be different sentiments behind why the trips are as long as they are. Potentially something to explore here on the marketing front.
+ 
 ![](TripsbyWeekdayperHour.png)
-
-
+ 
+MALEs and FEMALEs use the bikes similarly in terms of length of use. The difference here is primarily in volume which we covered earlier.
+ 
 ![](TripsbyWeekdayperHour_GenderBreakdown.png)
-
-
+MALEs and FEMALEs use the bikes similarly in terms of when they use Citibike. The color densisty difference here is caused by volume which skews MALE .
+ 
 ![](UserTripsbyGenderbyWeekday.png)
-
+ 
 
 ## Summary
 _High-level summary of the results and additional findings (2 images)._
