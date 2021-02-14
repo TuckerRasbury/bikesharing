@@ -28,10 +28,10 @@ Riders are most likely to opt for 4-6 hours of use and then use trends down cons
 MALEs and FEMALEs use the bikes similarly in terms of length of use. The difference here is primarily in volume which we covered earlier.
  
 ![](TripsbyWeekdayperHour_GenderBreakdown.png)
-MALEs and FEMALEs use the bikes similarly in terms of when they use Citibike. The color densisty difference here is caused by volume which skews MALE .
+MALEs and FEMALEs use the bikes similarly in terms of when they use Citibike. The color densisty difference here is caused by volume which skews MALE. In generals 
  
 ![](UserTripsbyGenderbyWeekday.png)
- 
+MALEs are far more likely to be subscribers. If this can be exploited or if FEMALE subscription can be raised, there is more money to be made here.
 
 ## Summary
 _High-level summary of the results and additional findings (2 images)._
